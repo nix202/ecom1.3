@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+
+
+<!DOCTYPE html> 
 <html>
     <body>
 <form method="post" action="resultat.php">
@@ -6,8 +8,8 @@
 
 <label> Name: </label>
 <input type="text" Name="Name" id="test" ><br>
-<label> surname: </label>
-<input type="text" surname="surname" id="test" ><br>
+<label> Surname: </label>
+<input type="text" Surname="Surname" id="test" ><br>
 <input type="submit">
 
 
